@@ -1,0 +1,1 @@
+with open ('notas.json', 'w', encoding='utf-8') as arquivo:
